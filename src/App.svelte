@@ -6,7 +6,7 @@
 <header class="navbar Global">
 	<div class="navbar-inner">
 		<a class="logo" href="/">
-			<img alt="Fluent Launcher" class="logo-icon" src="/app-icon.png" width="20" height="20">
+			<img alt="Fluent Launcher" class="logo-icon" src="./app-icon.png" width="20" height="20">
 			<span class="logo-title">
 				Fluent Launcher 
 			</span>
@@ -42,7 +42,7 @@
 			</div>
 		</div>
 		<div style="padding: 0px 0px 150px 0px;display:flex;align-items:center; justify-content:center;">
-					<img src="app.png" class="app-image" alt="app" style="display: inline-block;height: auto;width: 100%;"/>
+					<img src="./app.png" class="app-image" alt="app" style="display: inline-block;height: auto;width: 100%;"/>
 		</div>
 		
 	</section>
@@ -51,7 +51,7 @@
 	<div class="page-footer-section-inner">
 		<div class="column" style="inline-size: 100%;">
 			<a class="logo" href="/" >
-				<img alt="Fluent Launcher" class="logo-icon" style="width: 36px;height: 36px;" src="/app-icon.png">
+				<img alt="Fluent Launcher" class="logo-icon" style="width: 36px;height: 36px;" src="./app-icon.png">
 				<span class="logo-title">
 					Fluent Launcher 
 				</span>
@@ -195,7 +195,7 @@ nav {
 
 .hero-section {
     align-items: center;
-    background: url(/bloom-mica-light.png);
+    background: url('./bloom-mica-light.png');
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -210,11 +210,11 @@ nav {
 @media (prefers-color-scheme: dark)
 {
 	.hero-section{
-		background: url(/bloom-mica-dark.png) ;
+		background: url('./bloom-mica-dark.png') ;
 	}
 
 	.app-image{
-		content: url(/app-dark.png);
+		content: url('./app-dark.png');
 	}
 }
 .page-section-inner {
