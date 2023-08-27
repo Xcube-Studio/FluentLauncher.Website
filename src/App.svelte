@@ -21,7 +21,7 @@
 				<svg class="icon" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path style="fill: var(--fds-text-primary);"  d="M9 7a1 1 0 0 1 .117 1.993L9 9H7a3 3 0 0 0-.176 5.995L7 15h2a1 1 0 0 1 .117 1.993L9 17H7a5 5 0 0 1-.217-9.995L7 7h2Zm8 0a5 5 0 0 1 .217 9.995L17 17h-2a1 1 0 0 1-.117-1.993L15 15h2a3 3 0 0 0 .176-5.995L17 9h-2a1 1 0 0 1-.117-1.993L15 7h2ZM7 11h10a1 1 0 0 1 .117 1.993L17 13H7a1 1 0 0 1-.117-1.993L7 11h10H7Z" /></svg>				Xcube Studio
 			</a>
 			<Button variant="accent" class="navbar-selection" href="ms-windows-store://pdp/?ProductId=9P4NQQXQ942P&mode=mini">
-				<svg class="icon " viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M8 3.75V6H2.75a.75.75 0 0 0-.75.75v11.5A2.75 2.75 0 0 0 4.75 21h14.5A2.75 2.75 0 0 0 22 18.25V6.75a.75.75 0 0 0-.75-.75H16V3.75A1.75 1.75 0 0 0 14.25 2h-4.5A1.75 1.75 0 0 0 8 3.75Zm1.75-.25h4.5a.25.25 0 0 1 .25.25V6h-5V3.75a.25.25 0 0 1 .25-.25ZM8 13V9.5h3.5V13H8Zm0 4.5V14h3.5v3.5H8Zm8-4.5h-3.5V9.5H16V13Zm-3.5 4.5V14H16v3.5h-3.5Z" /></svg>				
+				<svg class="icon " viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path style="fill: var(--fds-store-logo);" d="M8 3.75V6H2.75a.75.75 0 0 0-.75.75v11.5A2.75 2.75 0 0 0 4.75 21h14.5A2.75 2.75 0 0 0 22 18.25V6.75a.75.75 0 0 0-.75-.75H16V3.75A1.75 1.75 0 0 0 14.25 2h-4.5A1.75 1.75 0 0 0 8 3.75Zm1.75-.25h4.5a.25.25 0 0 1 .25.25V6h-5V3.75a.25.25 0 0 1 .25-.25ZM8 13V9.5h3.5V13H8Zm0 4.5V14h3.5v3.5H8Zm8-4.5h-3.5V9.5H16V13Zm-3.5 4.5V14H16v3.5h-3.5Z" /></svg>				
 				Get in Microsoft Store
 			</Button>
 		</nav>
