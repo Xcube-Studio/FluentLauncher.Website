@@ -216,6 +216,10 @@ nav {
 	.app-image{
 		content: url('./app-dark.png');
 	}
+
+	:root{
+		--fds-store-logo:black;
+	}
 }
 .page-section-inner {
 	align-items: center;
@@ -294,6 +298,9 @@ nav {
     min-inline-size: unset;
 	box-sizing: border-box;
     min-width: 16vw;
+}
+:root{
+	--fds-store-logo: white;
 }
 </style>
 
