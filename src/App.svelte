@@ -56,7 +56,7 @@
 					Fluent Launcher 
 				</span>
 			</a>
-			<p style="color: var(--fds-text-secondary);margin: 15px 0px 0px 0px;">Copyright © Xcube Studio 2022 - 2023</p>
+			<p style="color: var(--fds-text-secondary);margin: 15px 0px 0px 0px;">Copyright © Xcube Studio 2022 - 2024</p>
 		</div>
 		<div class="column">
 			<p style="margin-left: 10px;color: var(--fds-text-secondary)" data-svelte-h="svelte-76m2vc">Pages</p>
@@ -207,6 +207,7 @@ nav {
  	background-repeat: no-repeat;
 	width: 100%;
 }
+
 @media (prefers-color-scheme: dark)
 {
 	.hero-section{
@@ -221,6 +222,7 @@ nav {
 		--fds-store-logo:black;
 	}
 }
+
 .page-section-inner {
 	align-items: center;
     display: flex;
